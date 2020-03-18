@@ -15,7 +15,7 @@
     ```
 
 * Save gimme-aws-creds config file (~/.okta_aws_login_config) or skip to step 4 to manually configure
-    ```
+    ```conf
     [DEFAULT]
     okta_org_url = https://maxar.okta.com
     okta_auth_server = 
@@ -46,8 +46,7 @@
 
 * Execute `gimme-aws-creds`
 
-
-<img src="screenshot.png" width="800">
+![gimme-aws-creds screenshot](./screenshot.png "Prompt for roles to configure")
 
 * Use profile for executing AWS CLI commands
 
