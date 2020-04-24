@@ -1,0 +1,7 @@
+data_classification:
+  - company_proprietary
+
+poc:
+  - name: Paul Harbulak
+    email: paul.harbulak@maxar.com
+
